@@ -123,7 +123,7 @@ To test the gem without publishing it:
 
 2. Install it locally:
    ```bash
-   gem install ./no_embed-0.1.1.gem
+   gem install ./no_embed-0.1.2.gem
    ```
 
 3. Use it in a Ruby script or add it to a project via `Gemfile`:

@@ -1,6 +1,7 @@
 require 'net/http'
 require 'uri'
 require 'json'
+require_relative 'no_embed/version'
 
 module NoEmbed
   API_ENDPOINT = 'https://noembed.com/embed'

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    no_embed (0.1.1)
+    no_embed (0.1.2)
 
 GEM
   remote: https://rubygems.org/
