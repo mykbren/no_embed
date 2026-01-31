@@ -138,3 +138,7 @@ To test the gem without publishing it:
 This gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
+
+## Sponsor
+
+Development of this gem is sponsored by [tseivo.com](https://tseivo.com)
